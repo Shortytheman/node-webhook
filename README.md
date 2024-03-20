@@ -9,7 +9,7 @@ with body:
     "eventType": "New payment", \
     "callbackUrl": "Your callback URL",\
     "amount": the amount of the payment\
-    }\
+    }
 
 You can also see active events by making a get request to
 - "http://localhost:8000/ping"
