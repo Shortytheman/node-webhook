@@ -1,0 +1,10 @@
+Event type: Payment registered
+Callback URL: yoyo
+Amount: 69
+Timestamp: 2024-03-20T18:14:28.323Z
+
+Event type: Payment registered
+Callback URL: sko
+Amount: 76
+Timestamp: 2024-03-20T18:14:35.407Z
+
