@@ -1,7 +1,7 @@
 ## Setup
 - Install and/or open Postman
   
-- Make a post request to ```[http://localhost:8000/register](https://niklas.serveo.net)``` 
+- Make a post request to ```https://niklas.serveo.net/register``` 
 
 with body:
 
