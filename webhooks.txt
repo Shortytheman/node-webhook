@@ -8,3 +8,18 @@ Callback URL: sko
 Amount: 76
 Timestamp: 2024-03-20T18:14:35.407Z
 
+Event type: payment registered
+Callback URL: sko
+Amount: 76
+Timestamp: 2024-03-20T18:37:28.262Z
+
+Event type: payment registered
+Callback URL: sko
+Amount: 76
+Timestamp: 2024-03-20T18:37:28.836Z
+
+Event type: payment registered
+Callback URL: sko
+Amount: 76
+Timestamp: 2024-03-20T18:37:29.559Z
+

@@ -1,7 +1,7 @@
 import express from "express";
 import fs from "fs";
 
-const filePath = "webhooks.txt";
+const filePath = "../webhooks.txt";
 const app = express();
 const PORT = 8000;
 
